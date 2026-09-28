@@ -1,6 +1,6 @@
 # HomeSpace Homelab
 
-A small, virtualized cybersecurity homelab running on a laptop. This repository documents the design, configuration, experiments, and lessons learned while building a practical environment for networking, Linux administration, monitoring, and defensive security.
+A small, virtualized cybersecurity homelab running on a Thinkpad. This repository documents the design, configuration, experiments, and lessons learned while building a practical environment for networking, Linux administration, monitoring, and defensive security.
 
 > **Purpose:** Learn by building, breaking, monitoring, hardening, and documenting a controlled lab environment.
 
