@@ -131,34 +131,6 @@ The project will include simple dashboards and written reports covering:
 
 Reports will prioritize clear evidence and repeatable observations over complexity.
 
-## Suggested Repository Structure
-
-```text
-.
-├── README.md
-├── docs/
-│   ├── architecture.md
-│   ├── network-plan.md
-│   ├── hardening-checklist.md
-│   └── exercises/
-├── configs/
-│   ├── ssh/
-│   ├── firewall/
-│   ├── dns/
-│   └── dhcp/
-├── scripts/
-│   ├── setup/
-│   ├── monitoring/
-│   └── validation/
-├── logs/
-│   └── .gitkeep
-├── reports/
-│   └── .gitkeep
-└── diagrams/
-```
-
-Do not commit passwords, private SSH keys, tokens, sensitive logs, or other secrets. Use sanitized examples, environment variables, and a suitable `.gitignore` instead.
-
 ## Project Workflow
 
 1. Plan the network and virtual machines.
