@@ -166,4 +166,4 @@ This repository is both a lab record and a learning journal. Each change should 
 
 ## Disclaimer
 
-This project is for education, defensive security practice, and authorized testing only. Do not scan, attack, or attempt to access systems, networks, accounts, or data without explicit permission.
+This project is for education, defensive security practice, and authorized testing only. 
